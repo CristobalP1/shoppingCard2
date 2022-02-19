@@ -1,0 +1,7 @@
+git diff // visualizar cambios
+git mv // cambiar nombre
+git log --oneline //revisar los commit
+git status -s //revisar
+git rm //eliminar
+git branch // revisar rama
+git checkout // crear ranma
