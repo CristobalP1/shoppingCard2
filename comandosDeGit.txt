@@ -4,6 +4,10 @@ git log --oneline //revisar los commit
 git status -s //revisar
 git rm //eliminar
 git branch // revisar rama
+<<<<<<< HEAD
 git checkout // cambiar ranma
 git checkout -b // crear rama
 git merge // combinar ramas
+=======
+git checkout // crear ranma
+>>>>>>> ramab
